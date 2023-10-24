@@ -17,6 +17,5 @@
             bg.style.height = "100vh"
 
         })
-
     }
 })()
